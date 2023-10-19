@@ -9,6 +9,7 @@ const Navbar = () => {
     <nav className='navbar'>
       <div className='internalLinks'>
         <img className="logo_nav" src={logo_nav} alt="Ha Thu" />
+        <h2 className="inventoryTitle">Inventory</h2>
         <div className="allNavbarItems">
           {/* <div activeClass="active" to='experiencesSec' spy={true} smooth={true} className="navbarItem">Inventory</div>
           <div activeClass="active" to='projectsSec' spy={true} smooth={true} className="navbarItem">Events</div>

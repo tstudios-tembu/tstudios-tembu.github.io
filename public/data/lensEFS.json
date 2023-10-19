@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Canon 10-22mm f/3.5-4.5 USM",
+        "stock": 1,
+        "desc": "EF-S lens",
+        "serialnumber": "TSG-201",
+        "image": "Canon1022.jpg",
+        "link": "https://sg.canon/en/business/ef-s10-22mm-f-3-5-4-5-usm/product"
+    },
+    {
+        "name": "Canon 24mm f/2.8 STM MACRO",
+        "stock": 1,
+        "desc": "EF-S lens",
+        "serialnumber": "TSG-205",
+        "image": "Canon24.jpg",
+        "link": "https://sg.canon/en/consumer/ef-s24mm-f28-stm/product"
+    }
+]

@@ -1,0 +1,26 @@
+#camerasSec {
+    width: 70%;
+}
+
+.cameraFullContent {
+    margin: 5% 0 0 0;
+    display: flex;
+    justify-content: left;
+    flex-direction: column;
+}
+
+.title {
+    color: #f0c791;
+}
+
+.cameraDescription {
+    margin: 10px 0 0 0;
+    line-height: 2rem;
+}
+
+.cameraCards {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 40px 0 10px 0;
+}

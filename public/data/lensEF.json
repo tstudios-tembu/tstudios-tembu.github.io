@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Canon 24-70mm f/2.8L II USM",
+        "stock": 1,
+        "desc": "EF lens",
+        "serialnumber": "TSG-203",
+        "image": "Canon2470.jpg",
+        "link": "https://sg.canon/en/consumer/ef24-70mm-f28l-ii-usm/product"
+    },
+    {
+        "name": "Canon 70-200mm f/4 USM",
+        "stock": 1,
+        "desc": "EF lens",
+        "serialnumber": "TSG-204",
+        "image": "Canon70200.jpg",
+        "link": "https://sg.canon/en/consumer/ef70-200mm-f-4l-is-ii-usm/product"
+    },
+    {
+        "name": "Canon 50mm f/1.8 STM",
+        "stock": 1,
+        "desc": "EF lens, Has slow autofocus",
+        "serialnumber": "TSG-206",
+        "image": "Canon50.jpg",
+        "link": "https://sg.canon/en/consumer/ef50mm-f1-8-stm/product"
+    },
+    {
+        "name": "Canon 85mm f/1.4 IS USM",
+        "stock": 1,
+        "desc": "EF lens, good for portraits",
+        "serialnumber": "TSG-207",
+        "image": "Canon85.jpg",
+        "link": "https://sg.canon/en/business/ef85mm-f-1-4l-is-usm/product"
+    },
+    {
+        "name": "Sigma 35mm f/1.4 (Canon)",
+        "stock": 1,
+        "desc": "EF lens",
+        "serialnumber": "TSG-208",
+        "image": "Sigma35.jpg",
+        "link": "https://www.sigma-global.com/en/lenses/a012_35_14/"
+    }
+]

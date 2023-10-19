@@ -1,0 +1,102 @@
+.navbar {
+    background: #20232A;
+    height: 4.8rem;
+    width: 100vw;
+    margin: 0 auto;
+    padding: 1rem 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: sticky;
+    top: 0;
+    z-index: 3;
+    opacity: 90%;
+    border-bottom: 0.5px solid white;
+}
+
+.internalLinks {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.telegram {
+    object-fit: cover;
+    height: 2.5rem;
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+.logo_nav {
+    object-fit: cover;
+    height: 2.8rem;
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+.logo_nav:hover, .telegram:hover {
+    filter: drop-shadow(0px 0px 8px #f0c791);
+}
+
+.allNavbarItems {
+    margin: 0px 0px 0px 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.navbarItem {
+    margin: 1rem;
+    cursor: pointer;
+    padding-bottom: 0.25rem;
+    color: white;
+}
+
+.navbarItem:hover {
+    color: #f0c791;
+    left: 0;
+    right: auto;
+    border-bottom: 3px solid #f0c791;
+}
+
+.active {
+    border-bottom: 3px solid #f0c791;
+    color: #f0c791;
+}
+
+.linkedIn, .github {
+    padding: 0px 8px 0px 8px;
+}
+
+.burgerMenuImg {
+    height: 2.5rem;
+    display: none;
+}
+
+.burgerMenuImg:hover {
+    height: 2.5rem;
+    cursor: pointer;
+}
+
+
+
+.burgerMenuInternalLinks {
+    display: flex;
+    flex-direction: column;
+}
+
+.burgerMenuItem {
+    margin: 1rem;
+    cursor: pointer;
+    padding-bottom: 0.25rem;
+    color: white;
+    
+}
+
+.burgerMenuItem:hover {
+    color: #f0c791;
+    left: 0;
+    right: auto;
+    border-bottom: 3px solid #f0c791;
+    cursor: pointer;
+}

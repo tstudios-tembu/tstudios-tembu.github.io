@@ -20,6 +20,10 @@
     justify-content: space-between;
 }
 
+.inventoryTitle {
+    margin-top: 5px;
+    margin-left: 5px;
+}
 .telegram {
     object-fit: cover;
     height: 2.5rem;

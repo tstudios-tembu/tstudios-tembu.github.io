@@ -1,0 +1,39 @@
+.inventoryCard {
+    width: 250px;
+    max-height: 295px;
+    transition: max-height 0.6s ease-out;
+    margin: 5px 15px 15px 15px;
+    box-shadow: 0px 0px 5px 0px rgb(114, 114, 114);
+    overflow: hidden;
+}
+
+.inventoryCard:hover {
+    cursor: pointer;
+    transform: scale(1.01);
+    max-height: 800px;
+    box-shadow: 0px 0px 15px 0px #f0c791;
+    transition: max-height 0.6s ease-in;
+}
+.cardImageSection {
+    overflow: hidden;
+    height: 250px;
+    width: 250px;
+    object-fit: cover;
+}
+
+.cardImage {
+    width: 250px;
+}
+
+.cardContent {
+    margin: 10px;
+    color: white;
+}
+
+.titleOfCard {
+    color: #f0c791;
+}
+
+.cardDescSec1 ,.cardDescSec2 {
+    margin: 10px 0 0 0;
+}

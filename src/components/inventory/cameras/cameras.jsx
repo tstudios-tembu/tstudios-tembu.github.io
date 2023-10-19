@@ -8,16 +8,15 @@ const Cameras = () => {
     return (
         <div id='camerasSec'>
             <div className="cameraFullContent">
-                <h2 className="title">DSLR Cameras</h2>
+                <h2 className="title">Cameras and Camera Bodies</h2>
                 <div className="cameraDescription">
-                Canon DSLR cameras are renowned for their exceptional image quality, versatility, and reliability. 
-                These digital single-lens reflex cameras cater to a wide range of photographers, from amateurs to professionals.
+                    TStudios offers a large selection of cameras for Tembusians to borrow.
+                    Canon DSLR cameras are renowned for their exceptional image quality, versatility, and reliability. Note that each Canon camera body must be paired with a compatible lens.
                 </div>
                 <div className="cameraCards">
                     <InventoryCardList items = {cameras}/>
                 </div>
             </div>
-            
         </div>
     )
 }

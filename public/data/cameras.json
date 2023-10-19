@@ -1,40 +1,40 @@
 [
     {
-        "name": "Canon 6D Mk2",
+        "name": "Canon DSLR - 6D Mk2",
         "stock": 2,
-        "desc": "Full frame, good for sports, high-res (EF only)",
+        "desc": "Full frame Canon camera body, good for sports, high-res (EF only)",
         "serialnumber": "TSG-101",
         "image": "6DMK2.jpg",
         "link": "https://www.canon.co.uk/cameras/eos-6d-mark-ii/"
     },
     {
-        "name": "Canon 6D",
+        "name": "Canon DSLR - 6D",
         "stock": 1,
-        "desc": "Full frame, good for stills, portraits, events (EF only)",
+        "desc": "Full frame Canon camera body, good for stills, portraits, events (EF only)",
         "serialnumber": "TSG-102",
         "image": "6D.jpg",
         "link": "https://www.canon.co.uk/for_home/product_finder/cameras/digital_slr/eos_6d/"
     },
     {
-        "name": "Canon 80D",
+        "name": "Canon DSLR - 80D",
         "stock": 1,
-        "desc": "APSC, Good for sports, high-res (EF/EF-S only)",
+        "desc": "APS-C Canon camera body, Good for sports, high-res (EF/EF-S only)",
         "serialnumber": "TSG-103",
         "image": "80D.jpg",
         "link": "https://www.canon.ie/for_home/product_finder/cameras/digital_slr/eos-80d/"
     },
     {
-        "name": "Canon 60D",
+        "name": "Canon DSLR - 60D",
         "stock": 1,
-        "desc": "APSC, Good for stills, portraits, events (EF/EF-S only)",
+        "desc": "APS-C Canon camera body, Good for stills, portraits, events (EF/EF-S only)",
         "serialnumber": "TSG-104",
         "image": "60D.jpg",
         "link": "https://www.canon.co.uk/for_home/product_finder/cameras/digital_slr/eos_60d/"
     },
     {
-        "name": "Canon 600D",
+        "name": "Canon DSLR - 600D",
         "stock": 1,
-        "desc": "APSC, Good for stills, portraits, events (EF/EF-S only)",
+        "desc": "APS-C Canon camera body, Good for stills, portraits, events (EF/EF-S only)",
         "serialnumber": "TSG-105",
         "image": "600D.jpg",
         "link": "https://www.canon.co.uk/for_home/product_finder/cameras/digital_slr/eos_600d/"
@@ -42,9 +42,17 @@
     {
         "name": "GoPro 9 Black",
         "stock": 1,
-        "desc": "w case, stick, 2 batteries, bag/helmet mount",
+        "desc": "Comes w case, stick, 2 batteries, bag/helmet mount",
         "serialnumber": "TSG-107",
         "image": "GoPro9.jpg",
         "link": "https://gopro.com/en/sg/shop/cameras"
+    },
+    {
+        "name": "Kodak M35 Reusable film camera",
+        "stock": 13,
+        "desc": "Reusable film camera",
+        "serialnumber": "TSO-101",
+        "image": "KodakM35.jpg",
+        "link": "https://www.kodak.com/en/consumer/product/cameras/film/m35/"
     }
 ]

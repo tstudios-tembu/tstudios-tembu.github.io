@@ -1,8 +1,9 @@
-#camerasSec {
+#lensSec {
     width: 70%;
 }
 
-.cameraFullContent {
+
+.lensFullContent {
     margin: 5% 0 0 0;
     display: flex;
     justify-content: left;
@@ -13,12 +14,16 @@
     color: #f0c791;
 }
 
-.cameraDescription {
+.lensTypeTitle {
+    margin: 40px 0 0 0
+}
+
+.lensDescription {
     margin: 10px 0 0 0;
     line-height: 2rem;
 }
 
-.cameraCards {
+.lensCards {
     display: flex;
     justify-content: center;
     align-items: center;

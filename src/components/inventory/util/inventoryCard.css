@@ -29,7 +29,7 @@
 }
 
 .cardImage {
-    width: 230px;
+    height: 230px;
 }
 
 .cardContent {
@@ -39,6 +39,7 @@
 
 .titleOfCard {
     color: #f0c791;
+    font-size: 1rem;
 }
 
 .cardDescSec1 ,.cardDescSec2 {

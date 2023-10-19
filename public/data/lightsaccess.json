@@ -1,0 +1,130 @@
+[
+    {
+        "name": "Lumia octabox USBOG120",
+        "stock": 1,
+        "desc": "120cm silver octagonal softbox",
+        "serialnumber": "TSY-301",
+        "image": "LumiaOcta.jpg",
+        "link": ""
+    },
+    {
+        "name": "Lumia umbrella U2L150",
+        "stock": 2,
+        "desc": "150cm shoot through umbrella with silver reflector",
+        "serialnumber": "TSY-302",
+        "image": "LumiaUmbrel.png",
+        "link": ""
+    },
+    {
+        "name": "Lumia studio softbox SSBG90120",
+        "stock": 2,
+        "desc": "90x120cm silver rectangular light softbox with attachment ring/white diffuser",
+        "serialnumber": "TSY-303",
+        "image": "LumiaSoftbox.jpg",
+        "link": ""
+    },
+    {
+        "name": "Phottix umbrella diffuser",
+        "stock": 2,
+        "desc": "90cm shoot-through umbrella",
+        "serialnumber": "TSY-304",
+        "image": "PhottixDiff.jpg",
+        "link": ""
+    },
+    {
+        "name": "Phottix circular reflector reversible 1.7m",
+        "stock": 1,
+        "desc": "170cm reversible reflector with green and gold attachments",
+        "serialnumber": "TSY-305",
+        "image": "PhottixCircReflector.jpg",
+        "link": ""
+    },
+    {
+        "name": "Triangular reflector",
+        "stock": 2,
+        "desc": "",
+        "serialnumber": "TSY-306",
+        "image": "TriangleReflector.png",
+        "link": ""
+    },
+    {
+        "name": "Box reflector (square)",
+        "stock": 2,
+        "desc": "",
+        "serialnumber": "TSY-307",
+        "image": "BoxRefl.jpg",
+        "link": ""
+    },
+    {
+        "name": "Gamilight Box 21 Softbox",
+        "stock": 2,
+        "desc": "",
+        "serialnumber": "TSY-308",
+        "image": "GamilightSoftBox.png",
+        "link": "https://photo-tips-online.com/review/gamilight-box-21-flash-diffuser/gallery.php?id=gamilight-box-21-parts"
+    },
+    {
+        "name": "Nanguang soft box",
+        "stock": 2,
+        "desc": "For CN576",
+        "serialnumber": "TSY-309",
+        "image": "NanguangSB.jpg",
+        "link": ""
+    },
+    {
+        "name": "Lumia BS400 light stand",
+        "stock": 2,
+        "desc": "Pivotable light/umbrella/softbox stand",
+        "serialnumber": "TSY-310",
+        "image": "BS400.jpg",
+        "link": ""
+    },
+    {
+        "name": "Manfrotto 156BLB light stand",
+        "stock": 1,
+        "desc": "",
+        "serialnumber": "TSY-311",
+        "image": "156blb.jpg",
+        "link": "https://www.manfrotto.com/global/black-aluminium-low-mini-pro-stand-156blb/"
+    },
+    {
+        "name": "Phottix P150 light stand",
+        "stock": 2,
+        "desc": "For umbrella reflector",
+        "serialnumber": "TSY-312",
+        "image": "P150.jpg",
+        "link": ""
+    },
+    {
+        "name": "Phottix P190 light stand",
+        "stock": 2,
+        "desc": "1 with broken tightener and missing screw",
+        "serialnumber": "TSY-313",
+        "image": "P190.jpg",
+        "link": "product-link-13"
+    },
+    {
+        "name": "Phottix softbox accessories",
+        "stock": 2,
+        "desc": "Head and clamp for umbrella diffuser and strobes",
+        "serialnumber": "TSY-315",
+        "image": "PhottixAccess.png",
+        "link": ""
+    },
+    {
+        "name": "NiceFoto backdrop stand",
+        "stock": "1 set",
+        "desc": "",
+        "serialnumber": "TSY-316",
+        "image": "NiceFotoStand.png",
+        "link": ""
+    },
+    {
+        "name": "Cloth Backdrops",
+        "stock": "1 of each color",
+        "desc": "White, grey, black",
+        "serialnumber": "TSY-316",
+        "image": "backdrop.png",
+        "link": ""
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Nanguang CN576 Studio lights",
+        "stock": 1,
+        "desc": "Set of 2 lights with filters",
+        "serialnumber": "TSY-401",
+        "image": "CN576.jpg",
+        "link": "http://www.nglbg.com/product/showproduct.php?lang=en&id=286"
+    },
+    {
+        "name": "GVM 800D-RGB Studio lights",
+        "stock": 1,
+        "desc": "Set of 2 lights",
+        "serialnumber": "TSY-402",
+        "image": "GVM.png",
+        "link": "https://www.bhphotovideo.com/c/product/1492249-REG/gvm_800d_rgb_3l_800d_rgb_led_video_studio.html"
+    },
+    {
+        "name": "Nanguang RGB66 studio light",
+        "stock": 1,
+        "desc": "Set of 1 small RGB light",
+        "serialnumber": "TSY-403",
+        "image": "RGB66.png",
+        "link": "http://www.nglbg.net/product/showproduct.php?id=391&lang=en"
+    },
+    {
+        "name": "Andoer Mini Lamp",
+        "stock": 4,
+        "desc": "5W, powered by 2AA batteries",
+        "serialnumber": "TSY-404",
+        "image": "Andoer.png",
+        "link": "https://www.andoer.com/p-d8370.html"
+    }
+]

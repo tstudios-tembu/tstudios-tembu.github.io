@@ -3,6 +3,7 @@ import './inventory.css'
 
 import React from 'react'
 import Lens from './lens/lens'
+import Lights from './lights/lights'
 
 const Inventory = () => {
 
@@ -10,7 +11,7 @@ const Inventory = () => {
         <div id='inventorySec'>
             <Cameras/>
             <Lens/>
-            
+            <Lights/>
             
         </div>
     )

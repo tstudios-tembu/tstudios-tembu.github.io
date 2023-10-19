@@ -1,0 +1,30 @@
+#lightsSec {
+    width: 70%;
+}
+
+.lightsFullContent {
+    margin: 5% 0 0 0;
+    display: flex;
+    justify-content: left;
+    flex-direction: column;
+}
+
+.title {
+    color: #f0c791;
+}
+
+.lightsDescription {
+    margin: 10px 0 0 0;
+    line-height: 2rem;
+}
+
+.lightsCards {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 40px 0 10px 0;
+}
+
+.lightsTypeTitle {
+    margin: 40px 0 0 0
+}

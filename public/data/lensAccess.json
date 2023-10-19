@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Celestron T-ring for Canon EOS",
+        "stock": 1,
+        "desc": "For mounting Canon DSLR to Celestron telescope",
+        "serialnumber": "TSG-401",
+        "image": "Tring.jpg",
+        "link": "https://www.celestron.com/products/t-ring-for-canon-eos-ef-mount-camera"
+    },
+    {
+        "name": "Kenko UV filter 49mm",
+        "stock": 1,
+        "desc": "Compatible with camera lens with diameter 49mm.",
+        "serialnumber": "TSG-501",
+        "image": "kenkoUV.jpg",
+        "link": "https://www.amazon.sg/Kenko-AIR-II-Filter-49mm/dp/B08L72FYBF"
+    },
+    {
+        "name": "Hoya UV filter 67mm",
+        "stock": 1,
+        "desc": "Compatible with camera lens with diameter 67mm.",
+        "serialnumber": "TSG-502",
+        "image": "hoyaUV.jpg",
+        "link": "https://shop.sg.canon/hoya-67mm-uv-hd-nano-filter.html"
+    }
+]
